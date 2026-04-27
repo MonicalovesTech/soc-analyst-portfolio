@@ -1,7 +1,15 @@
 # SOC Analyst Portfolio – Monica Kusi Appiah
 
 ## 👋 About Me
-CompTIA Security+ certified cybersecurity enthusiast with hands-on experience in threat detection, phishing analysis, and log investigation. Passionate about protecting systems and responding to security incidents.
+I am a CompTIA Security+ certified cybersecurity professional with hands-on experience in security operations, threat detection, and incident response.
+
+
+
+I have developed practical skills through real-world labs and projects, including phishing analysis, SIEM log investigation, and Python-based security automation.
+
+
+
+I am actively seeking an entry-level SOC Analyst role where I can apply my skills to detect, analyze, and respond to security incident.
 
 ---
 
